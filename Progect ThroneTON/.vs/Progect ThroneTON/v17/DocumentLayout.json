@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkucher666\\Desktop\\ThroneTON\\Progect ThroneTON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE90D07-9E95-8732-7691-73757BFDD3E4}|Assembly-CSharp.csproj|c:\\users\\elkucher666\\desktop\\throneton\\progect throneton\\assets\\scripts\\click.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE90D07-9E95-8732-7691-73757BFDD3E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\click.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Click.cs",
+              "DocumentMoniker": "C:\\Users\\elkucher666\\Desktop\\ThroneTON\\Progect ThroneTON\\Assets\\Scripts\\Click.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Click.cs",
+              "ToolTip": "C:\\Users\\elkucher666\\Desktop\\ThroneTON\\Progect ThroneTON\\Assets\\Scripts\\Click.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Click.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:31:43.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
